@@ -12,7 +12,7 @@ this is open source project and we encourge contributions to join us..!
 early contributors will earn thinking coins rewards
 Thinking Coin (TCOIN)
 
-Market Cap: 100,000,000 tokens
+Market Cap: 1,000,000,000 tokens
 Symbol: TCOIN
 Blockchain: Ethereum (ERC20-compatible)
 
